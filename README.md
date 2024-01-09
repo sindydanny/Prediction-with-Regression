@@ -1,4 +1,4 @@
-# Advance-Project--1-2---Prediction-with-Regression
+# Advance-Project--Prediction-with-Regression
 # Prediction with Regression
 ## Overview
 This repository contains the implementation of two advanced projects focusing on building simple linear regression models using Python. The primary goals of these projects are to predict Delivery Time based on Sorting Time and to create a prediction model for Salary Hike.
