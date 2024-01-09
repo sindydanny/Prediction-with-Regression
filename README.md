@@ -1,5 +1,51 @@
-# Prediction-with-Regression
-In the dynamic landscape of data-driven decision-making, predictive modeling through regression analysis has emerged as a powerful tool. This project focuses on leveraging regression techniques to predict two metrics: Salary Expectation based on Years of Experiences and Delivery Time based on Sorting Time. 
-Through a comprehensive exploration of the datasets and the application of regression models, we aim to uncover valuable insights, optimize predictions, and contribute to informed decision-making in the respective domains.
-The project is expected to be completed over a period of 1 weeks, including data collection, preprocessing, model development, and optimization.
-This journey through Prediction with Regression for Salary Expectation based on Years of Experiences and Delivery Time based on Sorting Time, it holds the promise of uncovering valuable insights that can guide strategic decisions, enhance business operations, and contribute to organizational success. Let's embark on this exploration of data-driven prediction and its transformative potential.
+# Advance-Project--1-2---Prediction-with-Regression
+# Prediction with Regression
+## Overview
+This repository contains the implementation of two advanced projects focusing on building simple linear regression models using Python. The primary goals of these projects are to predict Delivery Time based on Sorting Time and to create a prediction model for Salary Hike.
+
+## Project Details
+### Datasets
+**Delivery Time:**
+     + **Objective:** Predict Delivery time using Sorting time.
+
+**Salary Hike:**
+     + **Objective:** Build a prediction model for Salary Hike.
+
+### Methodology
+
+1. **Machine Learning Life Cycle:**
+     
+     + Followed industry-standard Machine Learning Life Cycle steps.
+
+2. **EDA and Transformations:**
+
+     + Conducted thorough Exploratory Data Analysis (EDA) on both datasets.
+     + Implemented necessary transformations to enhance model performance.
+
+3. **Graphs and Interpretation:**
+
+     + Utilized Seaborn for EDA graphs.
+     + Provided detailed interpretations of each graph.
+
+4. **Code and Print Statements:**
+
+     + Ensured proper documentation with print statements.
+     + Rounded numbers appropriately.
+
+ 5. **Code and Model Export:**
+
+     + Saved Python code in .ipynb format as "Delivery_prj1" and "salary_prj2."
+     + Exported models to Excel following class examples.
+
+6. **GitHub Repository:**
+
+     + Named the repository "Prediction with Regression."
+     + Uploaded zip folders containing datasets, graphs, .ipynb files
+
+7. **Readme File:**
+
+     + Used pandas , numpy, seaborn , matplotlib.pyplot
+     + Jupyter notebook used to write Python a program
+
+## Conclusion
+This repository serves as a comprehensive resource for anyone interested in regression modeling. The projects showcase a meticulous approach to the entire data science process, from initial exploration to model deployment.
